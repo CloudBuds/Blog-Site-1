@@ -17,7 +17,7 @@ This is the Official Source-Code behind the Infinity Bots [Blog](https://blog.bo
 
 ---
 
-## Install
+## Self Hosting
 
 ### 1. Install the Gridsome CLI tool if you don't have it yet.
 
@@ -29,6 +29,10 @@ This is the Official Source-Code behind the Infinity Bots [Blog](https://blog.bo
 2. `cd ibl-blog-template` to open folder
 3. `gridsome develop` to start local dev server at `http://localhost:8080`
 4. Enjoy the new Blog Site 😍❤️
+
+---
+
+# Netlify Deploy
 
 ---
 
