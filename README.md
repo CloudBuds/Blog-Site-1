@@ -21,7 +21,7 @@ This is the Official Source-Code behind the Infinity Bots [Blog](https://blog.bo
 
 ### 2. Install this starter
 
-1. `gridsome create my-gridsome-site https://github.com/InfinityBotList/Blog-Site.git`
-2. `cd my-gridsome-site` to open folder
+1. `gridsome create ibl-blog-template https://github.com/InfinityBotList/Blog-Site.git`
+2. `cd ibl-blog-template` to open folder
 3. `gridsome develop` to start local dev server at `http://localhost:8080`
 4. Enjoy the new Blog Site 😍❤️
