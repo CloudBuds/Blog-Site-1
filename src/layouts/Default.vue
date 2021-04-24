@@ -16,7 +16,7 @@
     </main>
 
     <footer class="footer">
-      <span class="footer__copyright">Copyright © {{ new Date().getFullYear() }} Maxim's Development | All Rights Reserved. </span>
+      <span class="footer__copyright">Copyright © {{ new Date().getFullYear() }} Maxim's Development | Thanks Toxic Dev ❤️ | All Rights Reserved. </span>
     </footer>
 
   </div>
