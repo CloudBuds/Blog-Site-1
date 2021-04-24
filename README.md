@@ -1,4 +1,7 @@
 # Infinity Bots Blog
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/107958b5-31b7-472a-a222-c81e42fec68b/deploy-status)](https://app.netlify.com/sites/kind-curie-9d1c56/deploys)
+
 This is the Official Source-Code behind the Infinity Bots [Blog](https://blog.botlist.site) site made using [Gridsome](https://gridsome.org/) and Vue
 
 ---
