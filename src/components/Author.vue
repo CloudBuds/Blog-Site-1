@@ -1,7 +1,7 @@
 <template>
 	<div class="author">
 
-		<g-image alt="Author image" class="author__image" src="~/assets/images/author.jpg" width="180" height="180" blur="5" />
+		<g-image alt="Author image" class="author__image" src="~/assets/images/981E4386-8142-463C-BF35-CEA796AB6C2E.jpeg" width="180" height="180" blur="5" />
 
 		<h1 v-if="showTitle" class="author__site-title">
 			{{ $static.metadata.siteName }}
@@ -12,8 +12,9 @@
 		</p>
 
 		<p class="author__links">
-			<a href="//twitter.com/gridsome">Follow on Twitter</a>
-			<a href="//github.com/gridsome/gridsome-starter-blog">GitHub</a>
+			<a href="//twitter.com/InfinityBotList">Follow us on Twitter</a>
+			<a href="//github.com/InfinityBotList">GitHub</a>
+                        <a href="//infinitybotlist.com/discord">Discord</a>
 		</p>
 
 	</div>
