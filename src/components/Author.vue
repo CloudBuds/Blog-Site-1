@@ -8,13 +8,12 @@
 		</h1>
 
 		<p class="author__intro">
-			Infinity Bot List is The future of Discord Bot Listing Services, we make it easier for you to advertise and grow your bots.
+		    Hey My name is Maxim King, I'm a backend developer and work on some pretty cool projects. This is my personal blog enjoy!
 		</p>
 
 		<p class="author__links">
-			<a href="//twitter.com/InfinityBotList">Follow us on Twitter</a>
-			<a href="//github.com/InfinityBotList">GitHub</a>
-                        <a href="//infinitybotlist.com/discord">Discord</a>
+			<a href="//twitter.com/MaximKing8">Follow My Twitter</a>
+			<a href="//github.com/MaximKing1">GitHub</a>
 		</p>
 
 	</div>
