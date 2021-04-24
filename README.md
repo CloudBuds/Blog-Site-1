@@ -34,6 +34,8 @@ This is the Official Source-Code behind the Infinity Bots [Blog](https://blog.bo
 
 # Netlify Deploy
 
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/InfinityBotList/Blog-Site)
+
 ---
 
 # Credits
