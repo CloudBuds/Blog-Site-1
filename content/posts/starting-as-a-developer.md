@@ -26,3 +26,9 @@ that's now on over 500 servers with 200K+ users! What to learn how I got from Ne
 to having a discord bot in over 500 servers? Look at the getting started bit!!
 
 ## Getting Started!
+
+I would first suggest you start looking at any basic Open Source bot, it's good to get a feel for the code
+before diving in head first, if you can check one out see what something does and then try and change it you've just
+learnt something new.. Keep experimenting with the code and once you feel like you have any understanding of what does
+what your good to go! Really this step isn't necessary but I would definitely 100% recommend it as it really helps
+you get started! 
