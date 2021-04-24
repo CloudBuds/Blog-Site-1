@@ -20,6 +20,11 @@ This is the Official Source-Code behind the Infinity Bots [Blog](https://blog.bo
 
 ---
 
+# Screenshots
+![Image 1](https://js.makes-me-horny.wtf/0f0080.png)
+![Image 2](https://js.makes-me-horny.wtf/8ebf30.png)
+---
+
 ## Self Hosting
 
 ### 1. Install the Gridsome CLI tool if you don't have it yet.
