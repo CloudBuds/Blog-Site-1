@@ -7,10 +7,10 @@ html {
 body {
  	--bg-color: #ffffff;
  	--bg-content-color: #16151d;
- 	--bg-code: #fffbf3;
+ 	--bg-code: #7289DA;
  	--body-color: #444;
  	--title-color: #111;
- 	--link-color: #6b17e6;
+ 	--link-color: #7289DA;
  	--border-color:  rgba(0,0,0,.1);;
         --space: 3.5rem;
         --content-width: 860px;
@@ -34,9 +34,9 @@ body {
 body[data-theme="dark"] {
  	--bg-color: #16151d;
  	--bg-content-color: #16151d;
- 	--bg-code: rgba(0,0,0,.3);
+ 	--bg-code: #7289DA;
  	--border-color:  rgba(255,255,255,.1);;
  	--body-color: #ced8de;
  	--title-color: #fff;
- 	--link-color: #af9cef;
+ 	--link-color: #7289DA;
 }
