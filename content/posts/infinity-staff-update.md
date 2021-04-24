@@ -1,5 +1,5 @@
 ---
-title: My Experience At InfinityBotList ❤️
+title: My Experience At InfinityBotList
 date: 2021-04-23
 published: true
 tags: ['InfinityBotList', 'Personal', 'Updates']
@@ -11,28 +11,34 @@ description: "My time at InfinityBotList, all in this one post for you guys."
 
 Hello everyone!
 
-Toxic here, as most of you may know by now we recently had to let go of `Maxim` who was one
-of the biggest contributors to the Infinity Bots staff team as we try our best to move on from this decision
-We ask that all members of the Infinity Bot List Discord community refrain from Messaging, Posting About or Harrasing
-this staff member.
+Welcome to my first ever blog, I want to say a massive thanks to toxic
+for help getting this all working. In this post I will be going though
+why I've temporarily left the staff team...
 
-This is a decision that was hard to make but had to happen due to some personal issues that Maxim is facing in his life
-we hope that you can all respect this and join us in wishing him well and hoping for the best for him and his current issues or projects.
+I think It was 3 months ago I joined when the old owner was there, when
+toxic took over for him I started talking to him for a bit then it got
+more like daily chats then I entered into the staff team. As everyone
+I started as a Moderator there and worked my way up to about Staff Manager,
+then I shown Toxic and Conner my dev work and they took me on as a trial developer!
 
-Maxim was a huge contributor to the Development, Maintenance and Security of the Infinity Bot List Community and Server as a whole and i
-wanted to personally reach out and let you all know in advance that this decision did not come due to actions (positive or negative) that have happened
-But just life in general once again interfering with and taking its toll on the ones we all know and love.
+When I got it I was really excited to get started, some of the features I brought out were
+• 12 Hour Voting
+• Massive Server Updates
+• Updated Every Log To Embeds
++ Much More...
 
-He has not been banned, kicked or anything of the sort just demoted for the time being, most of you may have
-noticed that he still actively has both the `Tickets Support` and `Helpers` roles. He will continue to offer support where he can,
-But most issues should be addressed through our staff team in the Discord Server not via his DMs.
+If you follow my Twitter you have probably seen some stuff happening at the moment with family
+that was the main reason I left there for a little rest for a while, don't get mr wrong I loved
+working there everyday was a new adventure for me and it didn't stop... Overall Conner and Toxic are
+the best Developers on Discord I know and some of the nicest people you could meet on here ❤️
 
-You're all free to message him as you would on a daily basis but he has requested that I ask you all to refrain from messaging him
-about infinity related support, if you need support you can reach out to us in our support channels and since he is a helper you may
-just end up getting him anyways 😉
+I'm sure everyone knows where I'm going now but now what does this mean for IBL?
+Well I can hopefully start doing some development side here and there but I will be definitely 
+helping in the server where I can, helping with the servers and maintenance on that end
+and just being here for anyone... As toxic said I don't really want to get loads of spams
+but if you would like to chat about this message me I'm always up for a chat and you may learn
+something new about me?
 
-Anywho I'm getting carried away.
-
-Thanks and Much Love ❤️
-- Toxic Dev (Head Staff)
+Thanks Maxim
+- (InfinityBotList Team)
 
