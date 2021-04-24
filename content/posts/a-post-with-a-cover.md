@@ -1,6 +1,6 @@
 ---
-title: A post with a cover image
-date: 2019-01-07
+title: Staff Team Update
+date: 2021-01-07
 published: true
 tags: ['Markdown', 'Cover Image']
 series: false
