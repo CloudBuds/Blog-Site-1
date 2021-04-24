@@ -1,7 +1,7 @@
 <template>
 	<div class="author">
 
-		<g-image alt="Author image" class="author__image" src="~/assets/images/981E4386-8142-463C-BF35-CEA796AB6C2E.jpeg" width="180" height="180" blur="5" />
+		<g-image alt="Author image" class="author__image" src="https://cdn.discordapp.com/avatars/713632188863610911/00d4f89c959edd860c86645e494048ba.jpeg" width="180" height="180" blur="5" />
 
 		<h1 v-if="showTitle" class="author__site-title">
 			{{ $static.metadata.siteName }}
