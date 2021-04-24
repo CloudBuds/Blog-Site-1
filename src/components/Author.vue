@@ -8,7 +8,7 @@
 		</h1>
 
 		<p class="author__intro">
-			A simple, hackable & minimalistic starter for Gridsome that uses Markdown for content.
+			Infinity Bot List is The future of Discord Bot Listing Services, we make it easier for you to advertise and grow your bots.
 		</p>
 
 		<p class="author__links">
