@@ -9,7 +9,9 @@ canonical_url: false
 description: "Important Update from the Infinity Bots Head Staff Team regarding the Infinity Bots Staff."
 ---
 
-Hello everyone, Toxic here as most of you may know by now we recently had to let go of `Maxim` who was one
+Hello everyone!
+
+Toxic here, as most of you may know by now we recently had to let go of `Maxim` who was one
 of the biggest contributors to the Infinity Bots staff team as we try our best to move on from this decision
 We ask that all members of the Infinity Bot List Discord community refrain from Messaging, Posting About or Harrasing
 this staff member.
