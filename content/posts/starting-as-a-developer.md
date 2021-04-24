@@ -1,6 +1,6 @@
 ---
 title: Starting As A Developer
-date: 2021-04-23
+date: 2021-04-24
 published: true
 tags: ['Guilds']
 series: true
