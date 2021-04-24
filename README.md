@@ -1,6 +1,5 @@
-# Gridsome Blog Starter
-
-> A simple, hackable & minimalistic starter for Gridsome that uses Markdown for content.
+# Infinity Bots Blog
+This is the Official Source-Code behind the Infinity Bots [Blog](https://blog.botlist.site)
 
 ## Features
 - Beautiful and simple design.
@@ -12,8 +11,7 @@
 - Uses same front-matter fields as Dev.to.
 
 ## Demo URL
-
-https://gridsome-starter-blog.netlify.com
+* https://blog.botlist.site
 
 ## Install
 
@@ -26,4 +24,4 @@ https://gridsome-starter-blog.netlify.com
 1. `gridsome create my-gridsome-site https://github.com/gridsome/gridsome-starter-blog.git`
 2. `cd my-gridsome-site` to open folder
 3. `gridsome develop` to start local dev server at `http://localhost:8080`
-4. Happy coding 🎉🙌
+4. Enjoy the new Blog Site 😍❤️
