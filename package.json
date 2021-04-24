@@ -1,5 +1,5 @@
 {
-  "name": "gridsome-starter-blog",
+  "name": "blog.botlist.site",
   "private": true,
   "scripts": {
     "build": "gridsome build",
