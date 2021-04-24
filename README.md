@@ -2,10 +2,10 @@
 This is the Official Source-Code behind the Infinity Bots [Blog](https://blog.botlist.site)
 
 ## Features
-- Beautiful and simple design.
-- Markdown for content.
-- Tags support.
-- Dark / Light toggle.
+- Beautiful, Simple and Hackable Design.
+- Utilizes Markdown for Post Content.
+- Support for Multiple Tags.
+- Built-In Dark / Light mode toggle.
 - CSS variables, SCSS & BEM for styling.
 - 100, 100, 100, 100 score on Google Lighthouse.
 - Uses same front-matter fields as Dev.to.
@@ -15,7 +15,7 @@ This is the Official Source-Code behind the Infinity Bots [Blog](https://blog.bo
 
 ## Install
 
-### 1. Install Gridsome CLI tool if you don't have
+### 1. Install the Gridsome CLI tool if you don't have it yet.
 
 `npm install --global @gridsome/cli`
 
