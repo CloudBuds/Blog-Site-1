@@ -1,5 +1,5 @@
 # Infinity Bots Blog
-This is the Official Source-Code behind the Infinity Bots [Blog](https://blog.botlist.site)
+This is the Official Source-Code behind the Infinity Bots [Blog](https://blog.botlist.site) site made using Gridsome and Vue
 
 ## Features
 - Beautiful, Simple and Hackable Design.
