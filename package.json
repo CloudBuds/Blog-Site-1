@@ -1,5 +1,6 @@
 {
   "name": "blog.botlist.site",
+  "author": "TheRealToxicDev <toxic.dev09@gmail.com>"
   "private": true,
   "scripts": {
     "build": "gridsome build",
