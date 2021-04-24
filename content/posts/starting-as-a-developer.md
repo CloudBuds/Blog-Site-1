@@ -1,7 +1,7 @@
 ---
 title: Starting As A Developer
 date: 2021-04-23
-published: false
+published: true
 tags: ['Guilds']
 series: true
 cover_image: ./images/A64CB0AF-871B-4F07-B95E-2A303C998E87.jpeg
@@ -32,3 +32,9 @@ before diving in head first, if you can check one out see what something does an
 learnt something new.. Keep experimenting with the code and once you feel like you have any understanding of what does
 what your good to go! Really this step isn't necessary but I would definitely 100% recommend it as it really helps
 you get started! 
+
+
+## Resources
+
+• https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics
+• More Coming Soon!
