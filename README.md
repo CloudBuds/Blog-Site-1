@@ -6,9 +6,7 @@ This is the Official Source-Code behind the Infinity Bots [Blog](https://blog.bo
 - Utilizes Markdown for Post Content.
 - Support for Multiple Tags.
 - Built-In Dark / Light mode toggle.
-- CSS variables, SCSS & BEM for styling.
-- 100, 100, 100, 100 score on Google Lighthouse.
-- Uses same front-matter fields as Dev.to.
+- CSS variables & SASS/SCSS for styling.
 
 ## Demo URL
 * https://blog.botlist.site
