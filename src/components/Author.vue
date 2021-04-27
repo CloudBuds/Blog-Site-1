@@ -8,7 +8,7 @@
 		</h1>
 
 		<p class="author__intro">
-			Infinity Bot List is The future of Discord Bot Listing Services, we make it easier for you to advertise and grow your bots.
+			Here you can find Official Updates from the Infinity Bot List Staff Team.
 		</p>
 
 		<p class="author__links">
