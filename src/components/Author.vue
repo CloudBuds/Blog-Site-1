@@ -8,7 +8,7 @@
 		</h1>
 
 		<p class="author__intro">
-			Here you can find Official Updates from the Infinity Bot List Staff Team.
+			Here you can find Official Updates from the Infinity Bot List Staff and Development Team.
 		</p>
 
 		<p class="author__links">
