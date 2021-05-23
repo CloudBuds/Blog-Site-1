@@ -13,16 +13,16 @@ So you've decided you wanted to start your own hosting business at home, but wor
 about the costs, equipment and safety? In this article I will go though the
 pros and cons about Hosting at Home and how practical it is for the long term!
 
- ## Pros
-* Your in control of your data.
-* You have physical access to your equipment.
-* No more Resource Limits.
-* Run NodeJS, PHP and many more applications.
- ## Cons
-* Electric bills can get expensive.
-* Servers are typically loud and take up a lot of space.
-* You will be responsible for the maintenance of your server.
-* You will have to setup a Secure Network Environment.
+## Pros
+ * Your in control of your data
+ * You have physical access to your equipment
+ * No more Resource Limits
+ * Run NodeJS, PHP and many more applications
+## Cons
+ * Electric bills can get expensive
+ * Servers are typically loud and take up a lot of space
+ * You will be responsible for the maintenance of your server
+ * You will have to setup a Secure Network Environment
 
 # Getting Started
 
@@ -43,3 +43,9 @@ businesses will use a Rack Server as they are more reliable and easily expandabl
 * Pro - Easy to upgrade storage via front drive slots 
 * Con - They are very load and not ideal for Home Users
 * Con - They can be expensive to run
+
+## Choosing Your Server
+
+### Home Users (10 - 20 Websites)
+
+### Power Users (25 - 30+ Websites)
