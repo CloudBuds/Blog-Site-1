@@ -11,7 +11,9 @@ author: "Toxic Dev - Lead Developer"
 author_image: ./images/ToxicGif2.gif
 ---
 
-Hello everyone, we have recently published a few minor API changes that may or may not effect our Users and or their Bots,
+Recent Updates and Changelog
+
+Over the past few days we have published a few API changes that may or may not effect our Users and or their Bots,
 A list of Changes can be found below for those of you who are interested in what has and has not changed.
 
 ---
