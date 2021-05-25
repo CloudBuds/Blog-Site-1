@@ -12,7 +12,7 @@ author_image: ./images/ToxicGif2.gif
 ---
 
 Hello everyone, we have recently published a few minor API changes that may or may not effect our Users and or their Bots,
-A list of Changes will can be found below for those of you who are interested in what has and has not changed.
+A list of Changes can be found below for those of you who are interested in what has and has not changed.
 
 ---
 
