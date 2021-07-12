@@ -8,12 +8,12 @@
 		</h1>
 
 		<p class="author__intro">
-		    Hey My name is Maxim King, I'm a backend developer and work on some pretty cool projects. This is my personal blog enjoy!
+		    MKComputing Blog!
 		</p>
 
 		<p class="author__links">
-			<a href="//twitter.com/MaximKing8">Follow My Twitter</a>
-			<a href="//github.com/MaximKing1">GitHub</a>
+			<a href="//github.com/MKComputingOfficial">GitHub</a>
+			<a href="//twitter.com/MKComputing">Twitter</a>
 		</p>
 
 	</div>
