@@ -18,7 +18,7 @@ to personally target harass and attack not only our website but also our staff a
 be tolerated by **any** member of our Discord Server or Discord in general and the user(s) in question have been reported to the proper authorities.
 
 We have done everything we can in regards to keeping our website secure and online during these.. "questionable" times including working closely
-with our server provider to take extra precautions to prevent users from executing multiple times of attacks on our services.
+with our server provider to take extra precautions to prevent users from executing multiple types of attacks on our services.
 
 We have had a lot of people curious what has happened and asking us questions that quite frankly we don't need to or hold no obligation to discuss publicly
 simply due to the fact that this is staff related issue.
