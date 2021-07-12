@@ -6,6 +6,5 @@
   command = "npm run deploy"
 
 [template.environment]
-  IBL_PAGE_TITLE = "Maxim's Blog"
+  IBL_PAGE_TITLE = "MKComputing Blog"
   IBL_COMPANY_LOGO = "https://cdn.discordapp.com/avatars/713632188863610911/00d4f89c959edd860c86645e494048ba.jpeg"
-  IBL_SUPPORT_CONTACT_LINK = "https://infinitybotlist.com/discord"
