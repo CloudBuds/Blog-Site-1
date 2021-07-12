@@ -4,7 +4,7 @@ date: 2021-07-11
 published: true
 tags: ['Infinity Bots', 'Website', 'Bot List', 'Updates']
 series: false
-cover_image: ./images/3CA0C619-F895-4A4F-8873-0F20F4CF22BE.png
+cover_image: ./images/547FD92D-1C2B-4FF2-899D-5216353AC9D6.png
 canonical_url: false
 description: "Official Update in regards to the Recent DDoS Attacks on the Infinity Website and Staff."
 author: "Toxic Dev - Lead Developer"
