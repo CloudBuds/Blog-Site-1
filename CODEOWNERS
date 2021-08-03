@@ -11,7 +11,8 @@ gridsome.config.js @TheRealToxicDev
 gridsome.server.js @TheRealToxicDev
 
 # Static/Public Directory
-static/* @TheRealToxicDev
+static/ @TheRealToxicDev
 
 
-
+# SRC Directory
+src/
