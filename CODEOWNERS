@@ -6,7 +6,12 @@ LICENSE @TheRealToxicDev
 # Netlify Config
 netlify.toml @TheRealToxicDev
 
-#Gridsome Configs
+# Gridsome Configs
 gridsome.config.js @TheRealToxicDev
 gridsome.server.js @TheRealToxicDev
+
+# Static/Public Directory
+static/* @TheRealToxicDev
+
+
 
