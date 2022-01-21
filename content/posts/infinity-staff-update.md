@@ -1,7 +1,7 @@
 ---
 title: My Experience At InfinityBotList
 date: 2021-04-23
-published: true
+published: false
 tags: ['InfinityBotList', 'Personal', 'Updates']
 series: false
 cover_image: ./images/A64CB0AF-871B-4F07-B95E-2A303C998E87.jpeg
